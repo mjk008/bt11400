@@ -31,7 +31,9 @@ tippy('.s2t3', {
     content: '<img src="images/Right input.jpg" width="100%" height="auto">',
     arrow: 'true',
     theme: 'light',
-    placement: 'right',
+    placement: 'bottom',
+    offset: '-90,20',
+    followCursor: 'true',
 })
 //end section 1
 tippy('.s3t1', {
