@@ -22,20 +22,20 @@ tippy('.s2t1', {
   })
 
 tippy('.s2t2', {
-    content: '<img src="images/Power switch.JPG" width="100%" height="auto">',
+    content: '<img src="images/Power switch.jpg" width="100%" height="auto">',
     arrow: 'true',
     theme: 'light',
 })
 
 tippy('.s2t3', {
-    content: '<img src="images/Right input.JPG" width="100%" height="auto">',
+    content: '<img src="images/Right input.jpg" width="100%" height="auto">',
     arrow: 'true',
     theme: 'light',
     placement: 'right',
 })
 //end section 1
 tippy('.s3t1', {
-    content: '<img src="images/bass.JPG" width="100%" height="auto">',
+    content: '<img src="images/bass.jpg" width="100%" height="auto">',
     arrow: 'true',
     theme: 'light',
     placement: 'bottom',
